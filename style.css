@@ -1,0 +1,43 @@
+.box {
+    height: 60px;
+    width: 80px;
+    border: solid black;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: brown;
+    background-color: aqua;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.para1 {
+    color: black;
+    background-color: rgb(73, 65, 80);
+    text-align: center;
+    margin: auto;
+    border: solid black;
+    padding: 10px;
+}
+
+.newclass {
+    background-color: brown;
+}
+
+#d1 {
+    height: 60px;
+    width: 80px;
+    border: solid black;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: antiquewhite;
+}
